@@ -11,13 +11,13 @@ public class Main {
         //2
         Scanner userInput = new Scanner(System.in);
         int[] userArray = new int[5];
-        /*try {
+        try {
             for(int ind = 0; ind < userArray.length; ++ind) {
                 userArray[ind] = userInput.nextInt();
             }
         } catch (Exception error) {
             System.out.println("Error: " + error);
-        }*/
+        }
         System.out.println("The minimum number of userArray is: " + minOrMaxNumber(userArray, "min"));
         System.out.println("The maximum number of userArray is: " + minOrMaxNumber(userArray, "max"));
         //3
