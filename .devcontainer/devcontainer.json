@@ -26,11 +26,9 @@
   "extensions": [
     "vscjava.vscode-java-pack"
   ],
-"features": {
-    "ghcr.io/devcontainers/features/sshd:1": {
-        "version": "latest"
-    }
-},
+  "features": { 
+      "sshd": "latest" 
+    },
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
