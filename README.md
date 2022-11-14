@@ -1,3 +1,3 @@
-# University homework
-## Terms of use
-### There are tasks of homework in each folder, named "HW*n*", where *n* means homework number. These tasks have Main function in each ones, so if you want to see how it works, you should run it.
+# Домашнее задание в университете
+## Условия использования
+### В каждой папке есть домашние задания с именем "HW*n*", где *n* означает номер домашнего задания. В каждой из этих задач есть основная функция, поэтому, если вы хотите посмотреть, как это работает, вам следует запустить ее.
