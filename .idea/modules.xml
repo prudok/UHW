@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/List/DynamicLists.iml" filepath="$PROJECT_DIR$/List/DynamicLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW9/HW/HW.iml" filepath="$PROJECT_DIR$/HW9/HW/HW.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW1/HW1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW10/HW10.iml" filepath="$PROJECT_DIR$/HW10/HW10.iml" />
