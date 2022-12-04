@@ -14,6 +14,7 @@ public class TrotterALG {
         directions[ind] = directions[jnd];
         directions[jnd] = directionsTemplate;
     }
+    
     public static void combinations(int size) {
         int[] numbers = new int[size];
         int[] directions = new int[size];
@@ -39,6 +40,7 @@ public class TrotterALG {
             indexOfMobile = findLargeMobile(numbers, directions);
         }
     }
+    
     public static void changeDirections(int[] numbers, int[] directions, int mobile) {
 
         for (int ind = 0; ind < numbers.length; ++ind) {
@@ -47,6 +49,7 @@ public class TrotterALG {
             }
         }
     }
+    
     public static int findLargeMobile(int[] numbers, int[] directions) {
         int index = -1;
 
